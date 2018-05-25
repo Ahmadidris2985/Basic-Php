@@ -4,8 +4,8 @@
  sa paggamit ng if else. Dapat alam nyo gamitin ang mga logical operator na AND OR NOT. Halimbawa:
 */
 
-$mid = 72;
-$fin = 71;
+$mid = 92;
+$fin = 95;
 $ave = ($mid + $fin) /2;
 //Kinuha lng ung averaage ng mid at fin at nilagay sa ave(midterm at finals) Kayo n bahala if may iba kyong formula para mkuha ung average.
 
